@@ -12,7 +12,7 @@ communication gaps and make everyday tasks more accessible for individuals of al
 
 ### Data set Link --------->https://drive.google.com/drive/folders/1e8J-mUzHhPs394yFUMEDLaqbMBNemEKD?usp=drive_link
 
-### Trained model Link --------->https://drive.google.com/file/d/1NXq2WwmVUzNBdw3jI3yyYkK6GNv-y_AO/view?usp=drive_link
+### Trained model Link -------->https://drive.google.com/file/d/1NXq2WwmVUzNBdw3jI3yyYkK6GNv-y_AO/view?usp=drive_link
 
 
 | Name                                   | Roll number   | 
