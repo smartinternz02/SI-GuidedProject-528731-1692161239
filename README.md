@@ -16,7 +16,7 @@ communication gaps and make everyday tasks more accessible for individuals of al
 
 
 | Name                                   | Roll number   | 
-| ---------------------------------------| --------------|
+| ---------------------------------------|---------------|
 | Abdul Yaseen                           | 20481A1201    |
 | Gangireddy Dhanraj                     | 20481A1246    |
 | Gudiputi Dinesh Kumar                  | 20481A1254    |
