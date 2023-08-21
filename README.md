@@ -20,4 +20,4 @@ communication gaps and make everyday tasks more accessible for individuals of al
 | Abdul Yaseen                           | 20481A1201    |
 | Gangireddy Dhanraj                     | 20481A1246    |
 | Gudiputi Dinesh Kumar                  | 20481A1254    |
-| Guttikonda KirannMahy                 | 20481A1257    |
+| Guttikonda KirannMahy                  | 20481A1257    |
